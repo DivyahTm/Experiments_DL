@@ -11,7 +11,7 @@ Built with:
 Instructions
 ------------
 1. Install Ollama from [Ollama.ai](https://ollama.ai)
-2. Start Ollama and download `bakllava` model
+2. Start Ollama and download `llava` model
 3. Clone repo and install packages
 4. Start streamlit app
 
