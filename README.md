@@ -6,7 +6,7 @@ Built with:
 * Langchain 
 * Streamlit
 * Ollama
-* Bakllava
+* llava
 
 Instructions
 ------------
